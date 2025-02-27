@@ -1,0 +1,15 @@
+meta {
+  name: GET_Por_Nombre
+  type: http
+  seq: 3
+}
+
+get {
+  url: http://localhost:8080/APIreservas/reservas?sala=Sala Azul
+  body: none
+  auth: none
+}
+
+params:query {
+  sala: Sala Azul
+}

@@ -1,0 +1,4 @@
+Nombre: Sala Verde
+Capacidad: 5
+Reservas:
+2025-02-20 09:00 - 10:00 - Ana Torres

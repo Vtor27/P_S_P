@@ -1,0 +1,4 @@
+Nombre: Sala Roja
+Capacidad: 20
+Reservas:
+(Sin reservas)
